@@ -1,3 +1,5 @@
 hello feature 1
 
 doing some change in the feature 1 after the feature 2 modified this file
+
+but also modifying the feature 1 file
